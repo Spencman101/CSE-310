@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "105063535444",
+    "firebase_url": "https://dating-app-12ac7-default-rtdb.firebaseio.com",
+    "project_id": "dating-app-12ac7",
+    "storage_bucket": "dating-app-12ac7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105063535444:android:d5fd8c6152f75ca199eec1",
+        "android_client_info": {
+          "package_name": "com.example.event_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9Kck350PEHcugm_uhQt2Zi53r3Mnn-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
